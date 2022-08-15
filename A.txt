@@ -1,3 +1,4 @@
 1-fayl 19:32 da yaratildi
 1-fayl 20:03 da o'zgartirildi
 fayl o'zgartirildi 20:27
+Faylga 20:30 da git-hub orqali o'zgartirildi
